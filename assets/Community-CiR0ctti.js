@@ -1,0 +1,1 @@
+import{P as o}from"./ProviderDashboardLayout-B0BX8dCs.js";import{_ as r}from"./CommunityFeed-Cdnm-VPl.js";import{c as t,o as a,w as e,j as m}from"./app-7omrHMIl.js";import"./NotificationDropdown-Dm0J_f0s.js";import"./x-xBI7ug-0.js";const l={__name:"Community",setup(s){return(_,c)=>(a(),t(o,null,{default:e(()=>[m(r)]),_:1}))}};export{l as default};
