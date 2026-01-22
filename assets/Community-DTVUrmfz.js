@@ -1,0 +1,1 @@
+import{C as o}from"./CustomerDashboardLayout-BY8Ku9VI.js";import{_ as t}from"./CommunityFeed-BeP2cnb6.js";import{a,o as r,w as e,j as m}from"./app-C0VbAaEP.js";import"./NotificationDropdown-BpaKGOwL.js";import"./x-BGqzC3Ia.js";const l={__name:"Community",setup(s){return(_,c)=>(r(),a(o,null,{default:e(()=>[m(t)]),_:1}))}};export{l as default};
