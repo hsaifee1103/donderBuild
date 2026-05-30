@@ -1,0 +1,1 @@
+import{E as a,G as t,R as r,j as e}from"./app-BhBoaieX.js";import{t as o}from"./CustomerDashboardLayout-C1bnVCCa.js";import{t as s}from"./CommunityFeed-CTecL2He.js";var p={__name:"Community",setup(m){return(_,u)=>(r(),a(o,null,{default:t(()=>[e(s)]),_:1}))}};export{p as default};
